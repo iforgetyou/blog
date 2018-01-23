@@ -5,7 +5,9 @@ title: shadowsockts-中间代理服务跳转
 
 ![image.png](http://upload-images.jianshu.io/upload_images/5967024-4fddecc5947d1f8c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+
 #使用场景
+
 A(本地ss客户端) -> B(国内腾讯云,centos7) -> C([境外ss服务端,centos7](https://www.vultr.com/?ref=7131690)) 
 
 # 如何跳转
