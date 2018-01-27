@@ -5,5 +5,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 pygments: true
 #theme: jekyll-theme-time-machine
 theme: jekyll-theme-cayman
+
+#cayman config
+google_analytics: UA-113155784-1
 repository: iforgetyou/blog
-#markdown: rdiscount
