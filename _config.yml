@@ -4,6 +4,6 @@ description: 一个开发的后花园
 baseurl: "" # the subpath of your site, e.g. /blog
 pygments: true
 #theme: jekyll-theme-time-machine
-theme: jekyll-theme-modernist
+theme: jekyll-theme-cayman
 repository: iforgetyou/blog
 #markdown: rdiscount
