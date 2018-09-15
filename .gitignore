@@ -133,3 +133,4 @@ nbdist/
 .nb-gradle/
 /spec-container java application files/
 **manifest.txt
+*.lock
